@@ -2,6 +2,8 @@
   width: 300px;
   float: left;
   padding: 30px;
+  border: 4px solid maroon;
+  margin: 10px;
 }
 
 img {
